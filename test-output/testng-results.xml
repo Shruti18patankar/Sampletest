@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Log:Webdriver session is created!]]>
+    </line>
+    <line>
+      <![CDATA[Log:Swaglab application is open]]>
+    </line>
+    <line>
+      <![CDATA[Log:user login is completed]]>
+    </line>
+    <line>
+      <![CDATA[Log:total product count is calculated]]>
+    </line>
+    <line>
+      <![CDATA[Log:product added into cart]]>
+    </line>
+    <line>
+      <![CDATA[Log:order completd]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-10-31T12:35:50 IST" name="Suite" finished-at="2023-10-31T12:36:10 IST" duration-ms="20362">
+    <groups>
+    </groups>
+    <test started-at="2023-10-31T12:35:50 IST" name="Test" finished-at="2023-10-31T12:36:10 IST" duration-ms="20362">
+      <class name="com.SwagLabs_Testcases.OverviewpageTest">
+        <test-method is-config="true" signature="reportsSetup()[pri:0, instance:com.SwagLabs_Testcases.OverviewpageTest@5be82d43]" started-at="2023-10-31T12:35:50 IST" name="reportsSetup" finished-at="2023-10-31T12:35:50 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportsSetup -->
+        <test-method is-config="true" signature="broswersetup()[pri:0, instance:com.SwagLabs_Testcases.OverviewpageTest@5be82d43]" started-at="2023-10-31T12:35:50 IST" name="broswersetup" finished-at="2023-10-31T12:36:01 IST" duration-ms="10786" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Log:Webdriver session is created!]]>
+            </line>
+            <line>
+              <![CDATA[Log:Swaglab application is open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- broswersetup -->
+        <test-method is-config="true" signature="pagesetup()[pri:0, instance:com.SwagLabs_Testcases.OverviewpageTest@5be82d43]" started-at="2023-10-31T12:36:01 IST" name="pagesetup" finished-at="2023-10-31T12:36:10 IST" duration-ms="8878" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Log:user login is completed]]>
+            </line>
+            <line>
+              <![CDATA[Log:total product count is calculated]]>
+            </line>
+            <line>
+              <![CDATA[Log:product added into cart]]>
+            </line>
+            <line>
+              <![CDATA[Log:order completd]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pagesetup -->
+        <test-method signature="verifyordersummury()[pri:1, instance:com.SwagLabs_Testcases.OverviewpageTest@5be82d43]" started-at="2023-10-31T12:36:10 IST" name="verifyordersummury" finished-at="2023-10-31T12:36:10 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyordersummury -->
+        <test-method signature="verifycompletorder()[pri:2, instance:com.SwagLabs_Testcases.OverviewpageTest@5be82d43]" started-at="2023-10-31T12:36:10 IST" name="verifycompletorder" finished-at="2023-10-31T12:36:10 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycompletorder -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.SwagLabs_Testcases.OverviewpageTest@5be82d43]" started-at="2023-10-31T12:36:10 IST" name="teardown" finished-at="2023-10-31T12:36:10 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="exitreports()[pri:0, instance:com.SwagLabs_Testcases.OverviewpageTest@5be82d43]" started-at="2023-10-31T12:36:11 IST" name="exitreports" finished-at="2023-10-31T12:36:11 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitreports -->
+      </class> <!-- com.SwagLabs_Testcases.OverviewpageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
